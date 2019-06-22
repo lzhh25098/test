@@ -5,6 +5,9 @@ public class Hello{
 		System.out.print("Hello xiaolinzi i love you");
 		System.out.print("Hello xiaolinzi i love you");
 		
+		
+		11111111111111111
+		
 	}
 	
 }
